@@ -1,4 +1,4 @@
 # test-technique
 Test technique durant process de recrutement
 
-![Texte alternatif de l'image](chemin/vers/votre/image.png)
+![Exemple de résultats](https://github.com/thmsguerin/test-technique/blob/main/results.png)
