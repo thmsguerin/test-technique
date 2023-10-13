@@ -1,5 +1,6 @@
 # test-technique
 Test technique durant process de recrutement.  
+  
 Il y avait 3 objectifs principaux :  
   1/ Cropping the WSI to get only the “tissue regions”.  
   2/ you should provide the “mask” needed as input for segmentation network  
